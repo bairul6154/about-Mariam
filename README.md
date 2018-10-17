@@ -45,6 +45,6 @@ pd.8 - AP Chemistry or gym (depends on the day)
 2. Manage your time
 3. Join Clubs or Teams
 4. **Always Challenge yourself and ask questions**   
-    *Very Important
+    _*Very Important_
 5. Do your homework and participate in class every day
-6. don't ever stress too much. Find ways to calm down
+6. Don't ever stress too much. Find ways to calm down
